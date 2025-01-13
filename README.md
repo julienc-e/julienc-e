@@ -1,5 +1,5 @@
 ## Hi there 👋
-[<img alt="alt_text" width="40px" src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_272x92dp.png" />](https://www.google.com/)
+[<img alt="alt_text" width="40px" src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_272x92dp.png" />](https://intra.epitech.eu/)
 <!--
 **julienc-e/julienc-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
